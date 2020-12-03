@@ -1,7 +1,7 @@
 # basketball_analytics
 This repository includes statistics of NBA games and players.
 
-All study has been done using Ptyhon and Jupyter Notebook.
+All code has been written using Ptyhon and Jupyter Notebook.
 
 You can find mini projects below:
 
