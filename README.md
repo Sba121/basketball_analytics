@@ -12,3 +12,7 @@ You can find mini projects below:
 **Jayson Tatum's Shot Chart** - This study shows Jayson Tatum's shot chart in his first three years' (17-18, 18-19, 19-20).  
 
 ** Special thanks to @*danchyy* for his great projects. 
+
+**BostonPlayoffGames2019-20Compared** - Study includes Boston's playoff games' FG%, FG3% and FT%.
+
+** Source for radar chart: https://www.youtube.com/watch?v=JC3PKoIX0ZE&t=59s
