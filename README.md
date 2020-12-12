@@ -13,6 +13,11 @@ You can find mini projects below:
 
 ** Special thanks to @*danchyy* for his great projects. 
 
-**BostonPlayoffGames2019-20Compared** - Study includes Boston's playoff games' FG%, FG3% and FT%.
+**BostonPlayoffGames2019-20Compared** - The study includes Boston's playoff games' FG%, FG3% and FT%.
 
 ** Source for radar chart: https://www.youtube.com/watch?v=JC3PKoIX0ZE&t=59s
+
+
+**PlayerPerGame_19_20_Analytics** - The study includes exploratory analysis of nba players in 2019-2020 season at the very basic level. 
+
+** Source: www.basketball-reference.com
