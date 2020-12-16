@@ -21,3 +21,8 @@ You can find mini projects below:
 **PlayerPerGame_19_20_Analytics** - The study includes exploratory analysis of nba players in 2019-2020 season at the very basic level. 
 
 ** Source: www.basketball-reference.com
+
+**KembaWalker'sShotChartIn2019-20** - This study shows Kemba Walker's shot chart in 2019-20 Regular Season & 2019-20 Playoffs.
+
+** Source for shot charts: http://savvastjortjoglou.com/nba-shot-sharts.html
+  
