@@ -26,5 +26,5 @@ You can find mini projects below:
 
 ** Source for shot charts: http://savvastjortjoglou.com/nba-shot-sharts.html
 
-**League_Leaders_2020-2021** - I have a team in Yahoo Fantasy Basketball and this is one of the files I've been tracking the players' performance.
+**Yahoo_Fantasy_Team_2020-2021** - I have a team in Yahoo Fantasy Basketball and this is one of the files I've been tracking the players' performance.
   
